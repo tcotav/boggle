@@ -7,7 +7,7 @@
 - QU counts as two letters
 - full credit for singular and plural of a word (i.e. OIL and OILS)
 
-
+![Scrawled Notes on Boggle Rules](bogglenotes.png "Scrawled Notes on Boggle Rules")
 
 ### How to solve a 4x4 Boggle Board
 - create 4x4 board
